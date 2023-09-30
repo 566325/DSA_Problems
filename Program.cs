@@ -4,8 +4,7 @@
     {
         static void Main(string[] args)
         {
-            BinarySearchWord.BinarySearch();
-            
+            PrimeNumbers.CheckRangePrime();
 
         }
     }
